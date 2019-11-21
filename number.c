@@ -2,9 +2,11 @@
 #include <time.h>
 void main()
 { 
-  int i;
-  for(i=0;i<11;i++)
-  {
-    printf("%d",i)
-  }
+	int a;
+	int i;
+	for(i=0;i<11;i++)
+	{
+		a = i;
+		printf("%d",a);
+	}
 }
