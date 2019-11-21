@@ -2,16 +2,16 @@
 #include <time.h>
 void main()
 { 
-	int x;
-	int y;
-	int z;
+	int i;
+	int a;
+	int b;
 	
-	printf("Enter 1 number: ");
-	scanf("%d",&y);
-	printf("Enter 2 number: ");
-	scanf("%d",&z);
+	printf("Enter the 1st number: ");
+	scanf("%d",&a);
+	printf("Enter the 2nd number: ");
+	scanf("%d",&b);
 	
 	x = a+b;
-	printf("%d",x);
+	printf("%d",i);
 
 }
