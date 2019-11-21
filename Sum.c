@@ -11,7 +11,7 @@ void main()
 	printf("Enter the 2nd number: ");
 	scanf("%d",&b);
 	
-	x = a+b;
+	i = a+b;
 	printf("%d",i);
 
 }
