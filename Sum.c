@@ -6,9 +6,9 @@ void main()
 	int a;
 	int b;
 	
-	printf("Enter the first number: ");
+	printf("Enter the 1st number: ");
 	scanf("%d",&a);
-	printf("Enter the second number: ");
+	printf("Enter the 2nd number: ");
 	scanf("%d",&b);
 	
 	i = a+b;
