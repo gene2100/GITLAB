@@ -10,7 +10,7 @@ void main()
 	scanf("%d",&a);
 	printf("Enter the 2nd number: ");
 	scanf("%d",&b);
-	
+
 	i = a+b;
 	printf("%d",i);
 
