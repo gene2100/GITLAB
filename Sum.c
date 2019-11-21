@@ -3,15 +3,15 @@
 void main()
 { 
 	int i;
-	int x;
-	int y;
+	int a;
+	int b;
 	
 	printf("Enter the 1st number: ");
-	scanf("%d",&x);
+	scanf("%d",&a);
 	printf("Enter the 2nd number: ");
-	scanf("%d",&y);
+	scanf("%d",&b);
 	
-	i = x+y;
+	i = a+b;
 	printf("%d",i);
 
 }
